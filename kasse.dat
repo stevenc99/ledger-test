@@ -1,0 +1,7 @@
+2018-01-23 * start
+	Assets:Kasse			12,00 Euro
+	Equity				
+
+2018-01-23 * kaufen
+	Assets:Kasse			-12,00 Euro
+	Expenses:Getränke
