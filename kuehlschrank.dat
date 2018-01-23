@@ -1,3 +1,15 @@
 2018-01-23 * auffüllen
 	Assets:Getränke:Club-Mate	24 Flasche
 	Expenses:Getränke
+
+2018-01-23 * verkauft
+	Assets:Getränke:Club-Mate	-1 Flasche
+	Expenses:Getränke
+
+2018-01-23 * verkauft
+	Assets:Getränke:Club-Mate	-1 Flasche
+	Expenses:Getränke
+
+2018-01-23 * verkauft
+	Assets:Getränke:Club-Mate	-1 Flasche
+	Expenses:Getränke
